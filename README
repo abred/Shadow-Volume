@@ -1,1 +1,1 @@
-Small *dirty* shadow volume implementation using the geometry shader
+Implementation of shadow volumes using the OpenGL geometry shader
